@@ -6,8 +6,8 @@ Aims
 The main focus was getting the maximum number of marks possible for the A level.
 After this, the project was used to test and make improvements to an application framework library being developed.
 The Non-Exam Assessment
-This project counts for 20% of the final A level result. Details on the requirements for the NEA can be found here.
+This project counts for 20% of the final A level result. Details on the requirements for the NEA can be found here:
+https://filestore.aqa.org.uk/resources/computing/AQA-7517-NEA-GUIDE.PDF
 
 License
-
 MIT License
