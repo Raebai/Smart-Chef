@@ -1,11 +1,13 @@
-Dear Respective Teacher,
+A-Level-Computer-Science-NEA
 
-This is the code for my Computer Science NEA, it should be as simple as running the code to get it to work. I have created a user interface for you to use when the code is run. The code also works in app form however i was not allowed to upload the app to the android Playstore due to copyright issues (as i am screen scraping information).
+Non-exam assessment project for AQA A level computer science, developed between September 2019 and April 2020.
 
-Therefore if you would like to get the app version then I have attatched the android.txt file which you will need to attach with the SmartChef.py file and the dishes.txt file and then upload onto your phone using a USB cable and the kivy App.
+Aims
+The main focus was getting the maximum number of marks possible for the A level.
+After this, the project was used to test and make improvements to an application framework library being developed.
+The Non-Exam Assessment
+This project counts for 20% of the final A level result. Details on the requirements for the NEA can be found here.
 
-Furthermore please make sure that you are running your shell on a path that links to the dishes.txt file in case it does not work.
+License
 
-Thanks very much for everything,
-
-Raaed Ali
+MIT License
