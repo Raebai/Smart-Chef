@@ -1,6 +1,7 @@
 A-Level-Computer-Science-NEA
 
 Non-exam assessment project for AQA A level computer science, developed between September 2019 and April 2020.
+The entire writeup is in the document attatched
 
 Aims
 The main focus was getting the maximum number of marks possible for the A level.
