@@ -1,0 +1,3 @@
+title=Smart Chef
+author=Raaed Ali
+orientation=landscape
