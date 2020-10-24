@@ -1,3 +1,8 @@
+For Python proficiency - please see the Smart Chef Python file Attacthed
+For Microsoft Office proficiency - please see the Smart Chef Writeup Attatched
+
+
+
 A-Level-Computer-Science-NEA
 
 Non-exam assessment project for AQA A level computer science, developed between September 2019 and April 2020.
