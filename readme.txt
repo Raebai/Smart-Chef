@@ -1,5 +1,5 @@
 For Python proficiency - please see the Smart Chef Python file Attacthed
-For Microsoft Office proficiency - please see the Smart Chef Writeup Attatched
+For Microsoft Office proficiency - please see the Smart Chef Document Attatched
 
 
 
